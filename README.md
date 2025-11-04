@@ -1,3 +1,5 @@
+# Pseudo's Plug — a chat completion preset for Claude
+
 Hello! I present to you, a fork of [PLUGNPLAYV3](https://rentry.org/Plug_N_PlayJB#formula)
 
 This was designed and tested purely on Claude, primarily Sonnet 4.5, specifically for Claude and its quirks and qualities. You're free to use it on other models if you wish but I make no claims to the quality or effectiveness in that case. 
