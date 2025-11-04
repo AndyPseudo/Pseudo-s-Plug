@@ -1,0 +1,17 @@
+{
+    "id": "70c2d358-6364-400c-a552-8197e1af6ca9",
+    "scriptName": "<previous_output>",
+    "findRegex": "{{lastCharMessage}}",
+    "replaceString": "<previous_output>\n{{lastCharMessage}}",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 2,
+    "minDepth": null,
+    "maxDepth": null
+}
