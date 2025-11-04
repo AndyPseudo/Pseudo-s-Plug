@@ -48,6 +48,6 @@ This was designed and tested purely on Claude, primarily Sonnet 4.5, specificall
 
 - Assuming I did things correctly (and I may not have) the required regex files should be included in and scoped to the preset but if that doesn't work for whatever reason, they're available in the folder
 
-- 👦👧 Pronouns
+👦👧 Pronouns
 
 - I tried to limit the use of {{char}} and pronouns throughout the preset, but ⚫/⚪ Tryhard contains both since I couldn't figure out a way to avoid them while getting the desired results. Check to make sure {{char}}'s pronouns match your char in the prompt. 
