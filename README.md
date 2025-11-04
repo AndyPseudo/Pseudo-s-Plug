@@ -7,7 +7,7 @@ This was designed and tested purely on Claude, primarily Sonnet 4.5, specificall
 🤔 Who is this for?
 
 - Claude enjoyers
-- Those comfortable with prompt caching OR proxy users OR sickos with endless API credits
+- Those comfortable with prompt caching (depth 2 or higher) OR proxy users OR sickos with endless API credits
 - Character-focused RPers
 - Nerds willing to/interested in reading the [model's system card](https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf) 
 - Those who want reasoning enabled without it ruining character voice
