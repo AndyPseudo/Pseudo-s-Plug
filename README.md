@@ -31,8 +31,8 @@ This was designed and tested purely on Claude, primarily Sonnet 4.5, specificall
 
 🤢 What about SLOP?
 
-- <banned> attempts (poorly) to reduce or eliminate the occurrence of undesireable words/phrases/structures. Ime, the effectiveness gets worse the more items you add, so limit it to the worst offenders and call it at that
-- <plagiarism> is a soft ban on echoing with some effectiveness. Certainly not perfect, and works much better when your response is lengthy or includes at least some prose. If your message includes a single line of user dialogue and nothing else, Claude seems to hyperfocus on it regardless
+- `<banned>` attempts (poorly) to reduce or eliminate the occurrence of undesireable words/phrases/structures. Ime, the effectiveness gets worse the more items you add, so limit it to the worst offenders and call it at that
+- `<plagiarism>` is a soft ban on echoing with some effectiveness. Certainly not perfect, and works much better when your response is lengthy or includes at least some prose. If your message includes a single line of user dialogue and nothing else, Claude seems to hyperfocus on it regardless
 - Claude SLOP is where I've seen better results. If Claude refuses to stop SLOPing, with this I've given it the opportunity to get it all out in a first draft and then start over new with something better
 
 
