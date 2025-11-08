@@ -1,6 +1,7 @@
 # Pseudo's Plug — a chat completion preset for Claude
 
-This is where I will post updates between major version changes. Use this to try out new prompts/edits I've made that may or may not work as intended. Feedback is helpful, outputs and reasoning traces are even more helpful. Enjoy!
+
+# This is where I will post updates between major version changes. Use this to try out new prompts/edits I've made that may or may not work as intended. Feedback is helpful, outputs and reasoning traces are even more helpful. Enjoy!
 
 
 
